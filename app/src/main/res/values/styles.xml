@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="txt_styles">
+        <item name="android:layout_width">400dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">#FF0057</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+</resources>
